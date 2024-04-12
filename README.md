@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo
-- 👀 I’m interested in learning and develop
-- 🌱 I’m currently learning Informatic Engeneering
+- 👀 I’m interested in learning new technologies 
+- 🌱 I’m currently studying Informatic Engeneering
 - 💞️ I’m looking to collaborate on web devolpment
 - 📫 How to reach me: pabloarrcoo@gmail.com
 
