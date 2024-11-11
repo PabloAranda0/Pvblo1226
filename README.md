@@ -21,7 +21,7 @@ I am a **Computer Engineering** student in **Information Systems** at **Universi
 - **English Level**: B1
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloAranda0&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
